@@ -1,0 +1,1 @@
+./blockchain.exe send 1N3Ycacu4xAbVaUP18sGFcRGKXjk2tVfTA 1N2mh8woqmUTD6qRexcTcnNfXRuVxoR6pf 2 1mm4J91v9hQhsNadE5cq4BQpMEAMqzka2 "test"
